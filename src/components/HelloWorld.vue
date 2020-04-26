@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="hello" id="app">
     <h1 v-cloak> {{msg}} </h1>
     <h2>Essential Links</h2>
     <ul>
